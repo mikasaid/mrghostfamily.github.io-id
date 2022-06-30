@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mr Ghost Family
 
 You can use the [editor on GitHub](https://github.com/mikasaid/mrghostfamily.github.io-id/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
