@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/mikasaid/mrghostfamily.github.io-id/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [MrGhostFamily](https:/mrghost.bio.link/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` html
 
 [Link](url) and ![Image](src)
 ```
@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikasaid/mrghostfamily.github.io-id/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikasaid/mrghostfamily.github.io-id/settings/pages). The name of this theme is saved in the Mr Ghost Family `_config.mr` configuration file.
 
 ### Support or Contact
 
